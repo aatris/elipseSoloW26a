@@ -4,7 +4,7 @@ public class HelloWorld {
 	public static void main(String[] args) {
 System.out.println("Programmer 1!!!!!");
 System.out.println("Second Print line from programmer 1-alternate versio n");
-System.out.println("Programmer 2 did this");
+System.out.println("Programmer two did this");
 	}
 
 }
